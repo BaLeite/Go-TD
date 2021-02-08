@@ -2,6 +2,7 @@ package main
 
 import "flag"
 import "fmt"
+import "os"
 
 const VERSION = "1.0"
 
